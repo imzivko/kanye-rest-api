@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+
+html,
+body {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  font-family: "Permanent Marker", "Times New Roman", Times, serif;
+}
+
+#button {
+  color: brown;
+  border: 0ch;
+  border-radius: 10%;
+  background-color: white;
+  margin-top: 10%;
+  font-family: "Permanent Marker", "Times New Roman", Times, serif;
+  font-size: 30px;
+}
